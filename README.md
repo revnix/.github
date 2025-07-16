@@ -1,3 +1,71 @@
+# Revnix
+
+> **AI‑First Engineering • Open Web • Automation That Scales**  
+> Pakistan‑based global tech org building open tools, SaaS products, and services across WordPress, JavaScript/TypeScript (Next.js, React, Node), Shopify, and applied AI + automation.
+
+---
+
+**Short version:** We build things that help devs, founders, and teams move faster. Much of our work is (or will be) open source. Jump in, give feedback, open issues, and build with us.
+
+---
+
+## Quick Links
+
+- **Website:** [revnix.com](https://revnix.com)
+- **Org Discussions (ask / suggest / feedback):** See the **Discussions** tab in this org.
+- **Security Reports:** security@revnix.com _(please email; do not open a public issue for vulnerabilities)._
+- **Hiring / Internships:** hire@revnix.com
+- **General Contact / Press / Partnerships:** hello@revnix.com
+
+---
+
+## What We Do
+
+- **Open Web & CMS:** High‑performance WordPress, Headless WP APIs, custom Next.js frontends.
+- **JavaScript / TypeScript Apps:** Next.js 15, React, Node, Supabase, serverless + edge.
+- **Shopify & E‑Commerce:** Themes, apps, conversion / CRO tooling.
+- **AI & Automation:** Content pipelines, internal agents, developer productivity tools.
+- **Starter Kits & Ops Guides:** Practical templates and infra cookbooks for small teams.
+
+---
+
+## Flagship / In‑Progress Projects
+
+| Project       | What It Is                                                       | Stage                | Repo               |
+| ------------- | ---------------------------------------------------------------- | -------------------- | ------------------ |
+| **NextlyCMS** | Headless CMS starter + API toolkit for Next.js and the open web. | Early Design → Alpha | _repo coming soon_ |
+| **WPAegis**   | WordPress maintenance & security automation platform.            | Launch Prep          | _repo coming soon_ |
+| **Ficonz**    | Clean icon set + AI icon generator (solid & outline styles).     | In Development       | _repo coming soon_ |
+| **DevBuddy**  | Desktop helper to build/share code contexts for AI tools.        | Alpha                | _repo coming soon_ |
+
+> Watch the org to get notified as these repos go public.
+
+---
+
+## Getting Involved
+
+**1. Browse repos.** Look for issues labeled `good first issue` or `help wanted`.
+
+**2. Open an issue before large changes.** Share the problem, your idea, and any questions.
+
+**3. Fork → branch → PR.** Smaller, focused pull requests get reviewed faster.
+
+**4. Use clear, simple English.** Many contributors are non‑native speakers—clarity helps everyone.
+
+---
+
+## Contribution Guidelines (Org‑Wide Defaults)
+
+**Branches**  
+`main` is protected. Use feature branches: `feature/<short-name>`, `fix/<short-name>`, `docs/<short-name>`.
+
+**Commit Style (recommended)**  
+Conventional Commits (not forced, but helpful):
+feat: add bulk importer to nextlycms api
+fix: null check in supabase client
+docs: update install steps
+chore: bump deps
+
 **Pull Requests**
 
 - Link the related issue.
